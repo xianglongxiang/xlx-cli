@@ -8,9 +8,9 @@
   },
   "bin": {
     "xlx-cli": "./bin/cli.js",
-    "xlx-add": "./bin/add.js",
-    "xlx-delete": "./bin/delete.js",
-    "xlx-init": "./bin/init.js"
+    "xlx-cli-add": "./bin/add.js",
+    "xlx-cli-delete": "./bin/delete.js",
+    "xlx-cli-init": "./bin/init.js"
   },
   "author": "xianglx",
   "license": "ISC",
