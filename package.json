@@ -1,6 +1,6 @@
 {
   "name": "xlx-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,10 +10,12 @@
     "xlx-cli": "./bin/cli.js",
     "xlx-cli-add": "./bin/add.js",
     "xlx-cli-delete": "./bin/delete.js",
-    "xlx-cli-init": "./bin/init.js"
+    "xlx-cli-init": "./bin/init.js",
+    "xlx-cli-list": "./bin/list.js"
   },
   "author": "xianglx",
   "license": "ISC",
+  "registry": "https://github.com/xianglongxiang/xlx-cli.git",
   "dependencies": {
     "chalk": "^3.0.0",
     "commander": "^4.1.1",
