@@ -29,7 +29,7 @@ url = tplObj[templateName]
 
 console.log(chalk.white('\n Start generating... \n'))
 // 出现加载图标
-const spinner = ora("Downloading..."+url);
+const spinner = ora("Downloading...");
 spinner.start();
 // 执行下载方法并传入参数
 download (
