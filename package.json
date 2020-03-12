@@ -1,6 +1,6 @@
 {
   "name": "xlx-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,7 @@
     "xlx-cli-init": "./bin/init.js",
     "xlx-cli-list": "./bin/list.js"
   },
+  "keywords": "xlx-cli",
   "author": "xianglx",
   "license": "ISC",
   "registry": "https://github.com/xianglongxiang/xlx-cli.git",
