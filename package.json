@@ -10,7 +10,7 @@
     "xlx-cli": "./bin/cli.js",
     "xlx-add": "./bin/add.js",
     "xlx-delete": "./bin/delete.js",
-    "xlx-init": "./bin/init.js",
+    "xlx-init": "./bin/init.js"
   },
   "author": "xianglx",
   "license": "ISC",
